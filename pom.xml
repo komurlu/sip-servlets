@@ -550,7 +550,7 @@
 		<repository>
 			<id>backup.repository.jboss.org</id>
 			<name>JBoss Repository Backup</name>
-			<url>http://anonsvn.jboss.org/repos/repository.jboss.org/maven2/</url>
+			<url>https://repository.jboss.org/nexus/content/repositories/m2-proxy/</url>
 			<snapshots>
 				<enabled>true</enabled>
 			</snapshots>
